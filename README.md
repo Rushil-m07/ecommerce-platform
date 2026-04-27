@@ -154,6 +154,3 @@ This was built as a course project. Areas I'd improve with more time:
 
 ---
 
-## License
-
-This project was developed for academic purposes at the University of the Fraser Valley (CIS 245).
