@@ -1,0 +1,15 @@
+# Database credentials
+dbconnect.php
+
+# Course report (large binary, not relevant to code)
+report/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
